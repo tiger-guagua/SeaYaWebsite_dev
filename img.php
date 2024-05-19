@@ -11,7 +11,7 @@
   .grid-container {
     display: grid;
     grid-template-columns: repeat(4, 1fr); /* 4列 */
-    grid-gap: 10px; /* 图片之间的间隔 */
+    grid-gap: 30px; /* 图片之间的间隔 */
   }
 
   .grid-item img {
