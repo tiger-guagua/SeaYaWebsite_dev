@@ -19,10 +19,12 @@
         <div class="navbar-collapse collapse" id="navbarSupportedContent" style="">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="http://localhost:8888/Seaya%20Cafe.php">Home</a>
+              <a class="nav-link active" aria-current="page" href="http://localhost:8888/Seaya%20Cafe.php">關於Sea ya</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="http://localhost:8888/img.php#">Link</a>
+              <a class="nav-link" href="http://localhost:8888/introduce.php">introduce</a>
+              <li class="nav-item">
+              <a class="nav-link" href="http://localhost:8888/img.php#">img</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
