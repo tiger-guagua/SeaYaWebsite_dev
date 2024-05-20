@@ -43,7 +43,7 @@
         text-align: center;
     }
 </style>
-<body class="p-3 m-0 border-0 bd-example m-0 border-0">
+<body>
     <div class="banner-container">
         <img src="img/navbar_logo.png" alt="海見咖啡" width="400px">
     </div>
@@ -60,7 +60,7 @@
                 </p>
             </div>
             <div class="item" >
-                <img src="/img/150ppi/衝浪配方.png">
+                <img src="img/150ppi/衝浪配方.png">
                 <p>
                     <br>處理法：日曬、水洗
                     <br>產地：衣索比亞/瓜地馬拉
